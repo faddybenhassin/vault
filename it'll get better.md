@@ -13,7 +13,6 @@
 - a1 german
 - talking in french
 
-testing plugin
 
 - change wifi (60 - 45)
 - get an iphone 15 1.8k
