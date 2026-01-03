@@ -1,0 +1,8 @@
+- [ ] complete one chapter of fast.ai
+- [ ] do 3 leetcode problems
+- todo project
+	- [ ] add register page (on your own)
+	- [ ] comment the code cuz i dont get it anymore
+	- [x] fix error messages and responses
+	- [ ] improve front end
+	- [ ] fix bugs
