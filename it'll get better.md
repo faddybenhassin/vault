@@ -1,6 +1,6 @@
 
 
-- SWE
+- SWE(do projects and learn design systems)
 	- fix removeRequests
 	- add readMe to all the repos
 	- add error message in todo app
