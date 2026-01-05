@@ -1,5 +1,7 @@
 
-
+todo:
+	understand file systems
+	understand how cookies work and more about http
 - SWE(do projects and learn design systems)
 	- fix removeRequests
 	- add readMe to all the repos
