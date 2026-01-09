@@ -1,12 +1,8 @@
-
-todo:
-	understand file systems
-	understand how cookies work and more about http
 - SWE(do projects and learn design systems)
+	- Chat App
+	- add error message in todo app
 	- fix removeRequests
 	- add readMe to all the repos
-	- add error message in todo app
-	- Chat App
 	- make a portfolio website
 	- lead scraper
 	- spotify downloader
@@ -15,6 +11,9 @@ todo:
 
 - a1 german
 - talking in french
+
+
+
 - DE
 - cloud
 
