@@ -2,12 +2,10 @@
 - workout
 - SWE(do projects and learn design systems)
 	- Chat App
+	- spotify/movies downloader
 	- add error message in todo app
 	- fix removeRequests
 	- add readMe to all the repos
-	- make a portfolio website
-	- lead scraper
-	- spotify downloader
 	- file orderer in C
 - leetcode
 ---
