@@ -2,10 +2,10 @@
 - workout
 - SWE(do projects and learn design systems)
 	- Chat App
+	- add readMe to all the repos
 	- spotify/movies downloader
 	- add error message in todo app
 	- fix removeRequests
-	- add readMe to all the repos
 	- file orderer in C
 - leetcode
 ---
