@@ -1,13 +1,13 @@
 - study
 - workout
-- SWE(do projects and learn design systems)
+- code
 	- Chat App
 	- add readMe to all the repos
 	- spotify/movies downloader
 	- add error message in todo app
 	- fix removeRequests
 	- file orderer in C
-- leetcode
+	- leetcode
 ---
 - a1 german
 - talking in french
