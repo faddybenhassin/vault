@@ -11,7 +11,7 @@
 		- add title and description
 	- Chat App from scratch on ur own
 	- add readMe to all the repos
-	- spotify/movies downloader
+	- download spotify songs
 	- fix removeRequests
 	- file orderer in C
 	- leetcode
