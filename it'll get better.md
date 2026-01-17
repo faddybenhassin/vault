@@ -1,10 +1,17 @@
 - study
 - workout
 - code
-	- Chat App
+	- http
+	- web sockets
+	- study API's
+	- system design
+	- todo app
+		- add erro pop ups to frontend
+		- add tag system
+		- add title and description
+	- Chat App from scratch on ur own
 	- add readMe to all the repos
 	- spotify/movies downloader
-	- add error message in todo app
 	- fix removeRequests
 	- file orderer in C
 	- leetcode
