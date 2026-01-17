@@ -2,8 +2,8 @@
 - workout
 - code
 	- http
-	- web sockets
 	- study API's
+	- web sockets
 	- system design
 	- todo app
 		- add erro pop ups to frontend
