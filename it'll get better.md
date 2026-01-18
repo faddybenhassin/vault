@@ -12,7 +12,6 @@
 	- Chat App from scratch on ur own
 	- add readMe to all the repos
 	- download spotify songs
-	- fix removeRequests
 	- file orderer in C
 	- leetcode
 ---
