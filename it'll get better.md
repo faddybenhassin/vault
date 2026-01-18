@@ -2,6 +2,7 @@
 - workout
 - code
 	- http
+	- file orderer in C
 	- study API's
 	- web sockets
 	- system design
@@ -12,7 +13,6 @@
 	- Chat App from scratch on ur own
 	- add readMe to all the repos
 	- download spotify songs
-	- file orderer in C
 	- leetcode
 ---
 - a1 german
