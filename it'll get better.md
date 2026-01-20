@@ -1,19 +1,20 @@
 - study
 - workout
 - code
-	- http
-	- file orderer in C
+	- C projects
+	- http caching and auth
 	- study API's
 	- web sockets
-	- system design
 	- todo app
-		- add erro pop ups to frontend
+		- add error pop ups to frontend
 		- add tag system
 		- add title and description
 	- Chat App from scratch on ur own
 	- add readMe to all the repos
-	- download spotify songs
 	- leetcode
+		- learn trees
+	- download spotify songs
+	- system design
 ---
 - a1 german
 - talking in french
