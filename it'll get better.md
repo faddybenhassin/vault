@@ -1,19 +1,27 @@
 - study
 - workout
 - code
+	- web
+		- API's
+			- RESTful
+			- GraphQl
+			- WebSocket
+			- WebHook
+			- gRPC
+			- SOAP
+		- authentification
+		- caching
+		- todo app
+			- add title and description
+			- add tag system
+			- add error pop ups to frontend
+		- Chat App from scratch on ur own
+	- dsa
+		- leetcode
+			- learn trees
+	- other
 	- C projects
-	- http caching and auth
-	- study API's
-	- web sockets
-	- todo app
-		- add error pop ups to frontend
-		- add tag system
-		- add title and description
-	- Chat App from scratch on ur own
 	- add readMe to all the repos
-	- leetcode
-		- learn trees
-	- download spotify songs
 	- system design
 ---
 - a1 german
