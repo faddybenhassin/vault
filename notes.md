@@ -1,5 +1,8 @@
 - study
+	- math
+	- info
 - workout
+- french
 - code
 	- web
 		- API's
@@ -16,17 +19,12 @@
 			- add tag system
 			- add error pop ups to frontend
 		- Chat App from scratch on ur own
-	- dsa
-		- leetcode
-			- learn trees
-	- other
 	- C projects
 	- add readMe to all the repos
+	- dsa & leetcode
 	- system design
 ---
 - a1 german
-- talking in french
----
 - change wifi (60 - 45)
-- get a new laptop
 - get an iphone 15 1.8k
+- get a new laptop
