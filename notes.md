@@ -15,16 +15,14 @@
 		- authentification
 		- caching
 		- todo app
-			- add title and description
 			- add tag system
-			- add error pop ups to frontend
 		- Chat App from scratch on ur own
 	- C projects
 	- add readMe to all the repos
 	- dsa & leetcode
 	- system design
 ---
+- get an iphone 15 1.8k
 - a1 german
 - change wifi (60 - 45)
-- get an iphone 15 1.8k
 - get a new laptop
