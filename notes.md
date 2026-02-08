@@ -2,13 +2,12 @@
 	- math
 	- info
 - workout
-- french
 - code
 	- web
 		- API's
 			- RESTful
-			- GraphQl
 			- WebSocket
+			- GraphQl
 			- WebHook
 			- gRPC
 			- SOAP
@@ -17,8 +16,22 @@
 		- Chat App from scratch on ur own
 	- dsa & leetcode
 	- system design
+	- make local ai
 ---
-- get an iphone 15 1.8k
-- a1 german
+- fix facebook and linkedin accounts
+- network (discord and irl)
+- join clubs
+- try to freelance again
+---
+- get a bluetooth adapter (10dt)
 - change wifi (60 - 45)
-- get a new laptop
+- fix cpu cooling problem (400tnd)
+	- change thermal paste (20dt)
+	- change case
+	- change cpu cooler
+- fix monitor (500tnd)
+- sell mousepad
+- get an iphone 15 1.8k
+---
+- german and french
+	- read books and make friends
