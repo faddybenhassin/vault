@@ -22,11 +22,12 @@
 - dress better(frip)
 - cut porn and short form content
 ---
-- fix cpu cooling problem
+- fix pc
 	- change thermal paste
 	- add spacers and put on the glass with some distance
+	- fix monitor (150)
+	- get a bluetooth adapter (10dt)
 - change wifi (60 - 45)
-- get a bluetooth adapter (10dt)
 ---
 - sell headset and mousepad and some clothes
 - get a used iphone 15 1.5k
