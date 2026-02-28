@@ -1,37 +1,32 @@
 - study
-	- math
-	- info
-- workout
 - code
-	- web
-		- API's
-			- RESTful
-			- WebSocket
-			- GraphQl
-			- WebHook
-			- gRPC
-			- SOAP
-		- authentification
-		- caching
-		- Chat App from scratch on ur own
-	- dsa & leetcode
-	- system design
-	- make local ai
+	- make a static portfolio site
+	- ML
+	- backend
+	- cloud
+		- host a server
 ---
-- fix facebook and linkedin accounts
-- network (discord and irl)
+- fix facebook, github and linkedin accounts
 - join clubs
+- find internships
+- network (discord)
 - try to freelance again
----
-- get a bluetooth adapter (10dt)
-- change wifi (60 - 45)
-- fix cpu cooling problem (400tnd)
-	- change thermal paste (20dt)
-	- change case
-	- change cpu cooler
-- fix monitor (500tnd)
-- sell mousepad
-- get an iphone 15 1.8k
 ---
 - german and french
 	- read books and make friends
+---
+- workout
+- fix facial asymmetry
+- fix posture
+- go out more, make eye contact & talk louder
+- dress better(frip)
+- cut porn and short form content
+---
+- fix cpu cooling problem
+	- change thermal paste
+	- add spacers and put on the glass with some distance
+- change wifi (60 - 45)
+- get a bluetooth adapter (10dt)
+---
+- sell headset and mousepad and some clothes
+- get a used iphone 15 1.5k
